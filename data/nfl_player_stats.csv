@@ -1,0 +1,9 @@
+player,team,position,season,games,completions,attempts,passing_yards,passing_tds,interceptions,rush_attempts,rushing_yards,completion_pct,fantasy_points_est
+Patrick Mahomes,KC,QB,2023,16,401,597,4183,27,14,75,389,67.16917922948073,286.2
+Josh Allen,BUF,QB,2023,17,385,579,4306,29,18,111,524,66.49395509499136,304.6
+Lamar Jackson,BAL,QB,2023,16,307,457,3678,24,7,148,821,67.17724288840262,311.2
+Christian McCaffrey,SF,RB,2023,16,0,0,0,0,0,272,1459,0.0,145.9
+Derrick Henry,TEN,RB,2023,17,0,0,0,0,0,280,1167,0.0,116.7
+Tyreek Hill,MIA,WR,2023,16,0,0,0,0,0,0,0,0.0,0.0
+CeeDee Lamb,DAL,WR,2023,17,0,0,0,0,0,0,0,0.0,0.0
+Travis Kelce,KC,TE,2023,15,0,0,0,0,0,0,0,0.0,0.0
